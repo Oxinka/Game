@@ -9,6 +9,8 @@ w2 = wall.Wall(64, 128)
 w3 = wall.Wall(128, 64)
 w4 = wall.Wall(128, 128)
 w5 = wall.Wall(256, 128)
+w6 = wall.Wall(512, 128)
+w7 = wall.Wall(1024, 128)
 
 pyglet.gl.glClearColor(1, 1, 1, 1)
 
