@@ -18,5 +18,8 @@ class Wall:
 
         self.sprite.rotation = rotateBy
 
+    def update(self):
+        pass
+
     def draw(self):
         self.sprite.draw()
