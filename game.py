@@ -28,6 +28,8 @@ def on_draw():
     w3.draw()
     w4.draw()
     w5.draw()
+    w6.draw()
+    w7.draw()
     player.draw()
 
 
